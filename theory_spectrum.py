@@ -14,7 +14,7 @@ theory_J = eh.image.load_fits('./model/015GHz/NGC1052_t686.63_015GHz.fits')
 theory_K = eh.image.load_fits('./model/022GHz/NGC1052_t686.63_022GHz.fits')
 theory_L = eh.image.load_fits('./model/043GHz/NGC1052_t686.63_043GHz.fits')
 theory_M = eh.image.load_fits('./model/086GHz/NGC1052_t686.63_086GHz.fits')
-
+blabla
 flux_X = theory_X.total_flux()
 flux_Y = theory_Y.total_flux()
 flux_J = theory_J.total_flux()
